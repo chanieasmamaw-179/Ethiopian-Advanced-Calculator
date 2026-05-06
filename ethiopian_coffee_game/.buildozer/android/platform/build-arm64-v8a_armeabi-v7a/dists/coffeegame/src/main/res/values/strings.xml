@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EthiopianCoffeeGame</string>
+    <string name="private_version">922ea9eb9872e34910bbec252903b9e0d7f74381</string>
+    <string name="presplash_color">#000000</string>
+    <string name="urlScheme">kivy</string>
+</resources>
